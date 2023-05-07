@@ -1,7 +1,8 @@
 # Adventure Jumper
 
-英文版 / 中文版 / 日本語版
+[English](#english) / [中文版](#中文版) / [日本語版](#日本語版)
 
+<a name="english"></a>
 ## English
 
 ### Description
@@ -12,7 +13,8 @@ Adventure Jumper is an engaging 2D platform game created using the latest Unity 
 ### Project Status
 **Under Development** - The completion date is not yet determined.
 
-## 中文
+<a name="中文版"></a>
+## 中文版
 
 ### 项目描述
 冒险跳跃者是一个使用最新Unity平台制作的有趣且引人入胜的2D平台游戏。游戏灵感来自于经典的2D平台游戏，在本项目中，你将体验到丰富多彩的关卡设计，各种道具收集，以及与敌人和障碍物的挑战。该项目目前正在开发中，完成时间尚未确定。
@@ -22,7 +24,8 @@ Adventure Jumper is an engaging 2D platform game created using the latest Unity 
 ### 项目状态
 **开发中** - 完成时间暂未确定。
 
-## 日本語
+<a name="日本語版"></a>
+## 日本語版
 
 ### 説明
 アドベンチャージャンパーは、最新のUnityプラットフォームで作成された楽しくてエンゲージングな2Dプラットフォームゲームです。古典的なプラットフォームゲームに触発され、このプロジェクトでは、多様なレベルデザイン、アイテム収集、さまざまな敵や障害物との挑戦を通じて、プレイヤーに没入感のある体験を提供します。このプロジェクトは現在開発中であり、完成日はまだ決まっていません。
